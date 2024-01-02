@@ -219,9 +219,7 @@ namespace Crud_App.controller
 
         }
 
-
-
-
+          
 
         public void btn_update_Click()
         {
